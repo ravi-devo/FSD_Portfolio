@@ -1,0 +1,18 @@
+.projects-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image-Card{
+    width: 23rem;
+    margin-right: 2em;
+    margin-bottom: 2em;
+    border: none;
+    cursor: pointer;
+}
+
+.projects-component{
+    margin-top: 2em;
+    padding: 2em;
+}
