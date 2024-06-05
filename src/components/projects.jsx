@@ -9,6 +9,9 @@ const MyProjects = () => {
     return (
         <div className="projects-component my-4">
             <h1 className='text-center mb-5'>My Projects</h1>
+            <h3>Demo Credentials for all projects</h3>
+            <p>Username: testuser@gmail.com</p>
+            <p>Password: Welcome@123</p>
             <div className="projects-div my-4">
                 <Card className="image-Card">
                     <Card.Img src={faceOfTamizhanImage} alt="Face-Of-Tamizan project" variant="top" />
