@@ -6,7 +6,7 @@ import '../styles/profession.css';
 const Profession = () => {
     return (<>
         <div className="profession-content mb-2">
-            <h1 className="text-center mb-4">Professional Summary</h1>
+            <h1 className="mb-4">Professional Summary</h1>
             <VerticalTimeline>
                 <VerticalTimelineElement
                     className="vertical-timeline-element"

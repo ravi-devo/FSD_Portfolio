@@ -1,3 +1,4 @@
+import Certification from "./components/certification";
 import Divider from "./components/divider";
 import IntroComponent from "./components/intro";
 import Profession from "./components/profession";
@@ -17,6 +18,8 @@ const Portfolio = () => {
             <MyProjects />
             <Divider />
             <Profession />
+            <Divider />
+            <Certification />
             <Divider />
             <h2 className="text-center my-5">Thanks for scrolling</h2>
         </>

@@ -12,20 +12,6 @@ const Timeline = () => {
                     className="vertical-timeline-element"
                     contentStyle={{ background: 'black', color: '#fff', border: '1px solid white' }}
                     contentArrowStyle={{ borderRight: '7px solid white' }}
-                    date="July, 2023 - Present"
-                    iconStyle={{ background: 'white', color: 'black' }}
-                    icon={<FaCircle />}
-                >
-                    <h3 className="vertical-timeline-element-title">Full Stack Development</h3>
-                    <h4 className="vertical-timeline-element-subtitle">Online, GUVI</h4>
-                    <p>
-                        Completed the full stack development course with 4 projects through a successful learning path.
-                    </p>
-                </VerticalTimelineElement>
-                <VerticalTimelineElement
-                    className="vertical-timeline-element"
-                    contentStyle={{ background: 'black', color: '#fff', border: '1px solid white' }}
-                    contentArrowStyle={{ borderRight: '7px solid white' }}
                     date="2018 - 2020"
                     iconStyle={{ background: 'white', color: 'black' }}
                     icon={<FaCircle />}
