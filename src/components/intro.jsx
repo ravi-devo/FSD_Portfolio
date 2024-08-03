@@ -6,7 +6,7 @@ const IntroComponent = () => {
 
     const githubURL = 'https://github.com/ravi-devo/';
     const linkedInURL = 'https://www.linkedin.com/in/ravichandran-venkatesan-a465b7129/';
-    const resumeURL = 'https://drive.google.com/file/d/1ItJIu4viwhkecrgMMobMgUfl2FtAK5qC/view?usp=drive_link';
+    const resumeURL = 'https://drive.google.com/file/d/1NMMyjGQmqQa27SNo4Zu4HU0WBp_93IXF/view?usp=sharing';
 
     const handleClick = (url) => {
         window.open(url, '_blank');
